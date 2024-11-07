@@ -1,0 +1,49 @@
+@media screen and (max-width: 1240px){
+    .services-grid-items{
+        grid-template-columns: 370px 370px;
+    }
+    .products{
+        grid-template-columns: 370px 370px;
+    }
+    
+}
+
+@media screen and (max-width: 920px){
+    .services-grid-items{
+        grid-template-columns: 370px;
+    }
+    .products{
+        grid-template-columns: 370px;
+    }
+    .header a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+    .menu-nav{
+        float:none;
+        flex-direction: column;
+        margin:0;
+    }
+    .header .container{
+        flex-direction: column;
+    }
+    .logo{
+        margin:0;
+    }
+
+}
+
+@media screen and (max-width: 440px){
+    .buttons button{
+        width:32vw;
+    }
+}
+
+
+
+
+
+
+
+
