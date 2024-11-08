@@ -420,7 +420,7 @@
     background-size: cover;
     background-attachment: fixed;
     color:white;
-    padding-bottom: 80px;
+    padding-bottom: 60px;;
 }
 .icons-item img{
     width:105px;
@@ -472,13 +472,12 @@
     width:220px;
     border-radius:10px;
     font-size:20px;
-    /*left:77vw;*/
-    /*top:40px;*/
-    margin-left:64.5vw;
     margin-top:40px;
+    justify-self:end;
 }
 .button-finish{
-    display:flex;
+    width:1031px;
+    justify-self:end;
 }
 .button-send:hover{
     background-color:rgba(0,137,132,1);
