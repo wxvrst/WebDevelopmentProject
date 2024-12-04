@@ -75,6 +75,7 @@
     line-height:130%;
     color:black;
     float: left;
+    box-sizing: border-box;
 }
 .menu-nav a:hover{
     border-bottom: 2px solid black;
