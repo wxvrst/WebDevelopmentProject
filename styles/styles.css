@@ -76,6 +76,7 @@
     color:black;
     float: left;
     box-sizing: border-box;
+    border-bottom: 2px solid transparent;
 }
 .menu-nav a:hover{
     border-bottom: 2px solid black;
